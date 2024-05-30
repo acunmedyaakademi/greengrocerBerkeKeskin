@@ -27,7 +27,7 @@ export const FruitsTable = ({ inputValue, isThere }: TableWrapperTypes) => {
         <>
             <div>
                 <ul>
-                    <h2 style={{ textAlign: "center" }}>FRUİTS</h2>
+                    <h2 style={{ textAlign: "center" }}>FRUITS</h2>
                     <h5>Kg Fiyatı</h5>
 
                     {fruits.filter((fruit) => {

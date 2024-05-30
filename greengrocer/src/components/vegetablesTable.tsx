@@ -26,7 +26,7 @@ export const Vegetables = ({ inputValue, isThere }: TableWrapperTypes) => {
 
             <div>
                 <ul>
-                    <h2>VEGİTABLES</h2>
+                    <h2>VEGITABLES</h2>
                     <h5>Kg Fiyatı</h5>
 
                     {veggies.filter((veggie) => {
